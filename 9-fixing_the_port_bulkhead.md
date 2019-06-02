@@ -15,7 +15,7 @@ The port bulkhead had water damage from a leak due to improper sealing of the ma
 ![Bulkhead showing rot](media/9-bulkhead/img_6244.jpg)
 *Port Bulkhead Rot*
 
-![](media/9-bulkhead/img_6248.jpg)
+![](media/9-bulkhead/IMG_6248.jpg)
 *More Bulkhead Rot*
 
 ![](media/9-bulkhead/IMG_7088.jpg)
