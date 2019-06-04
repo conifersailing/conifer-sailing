@@ -6,6 +6,11 @@ Published: Sun 02 Jun 2019
 
 The port bulkhead had water damage from a leak due to improper sealing of the mast step. Conifer's mast is deck-stepped, so the only place where water can enter the boat is through a small hole in the mast step where the wiring passes. The mast step is designed to keep the mast in place while allowing any water that might enter the mast to drain. Unfortunately, a previous owner had applied silicone caulk around the edge of the mast step, essentially plugging the drains. This caused water to build up in the mast until it entered the wiring pass-through. The results, over years, are self explanatory.
 
+**Video!**
+<div>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/f4S497-pfSc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ![Mast Step](media/9-bulkhead/img_1057.jpg)
 *Mast Step*
 
@@ -44,6 +49,8 @@ Luckily the rust was limited to the connection between the tab and the main beam
 ![](media/9-bulkhead/IMG_1499.jpg)
 *Smoothed*
 
+Next up - properly sealing deck hardware holes.
+
 
 
 <style type="text/css" rel="stylesheet">
@@ -71,12 +78,20 @@ img{
 	display:block;
 	margin-left: auto;
 	margin-right: auto;
-	width: 50%;
+	width: 33%;
 	padding: 5px;
 	border: 1px solid black; 
 	text-align: center;
 }
 img + em { 
+	align: center;
+	display: block; 
+	margin-left: auto;
+ 	margin-right: auto;
+ 	width: 33%;
+	text-align: center;
+}
+div { 
 	align: center;
 	display: block; 
 	margin-left: auto;
