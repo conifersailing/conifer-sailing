@@ -37,7 +37,7 @@ Here's what I did:
 </div>
 
 
-![A Few Holes Prepped](media/10-prepping_deck_holes/GOPR0379.jpg)
+![A Few Holes Prepped](media/10-prepping-deck-holes/GOPR0379.jpg)
 *Holes Prepped for Epoxy*
 
 After sanding and re-painting the decks, I will re-bed all of the hardware. The best method I have learned of is countersinking holes and using butyl tape. See the very detailed writeup over at <a href="https://marinehowto.com/bed-it-tape/">https://marinehowto.com/bed-it-tape</a>.
