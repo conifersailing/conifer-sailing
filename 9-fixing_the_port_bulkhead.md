@@ -1,4 +1,17 @@
-#[Conifer Sailing](index.html "Conifer Sailing")
+<head>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-141817141-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-141817141-1');
+</script>
+</head>
+
+
+#[Conifer Sailing](index.html "Back to Conifer Sailing - Home")
 
 ##[Fixing the Port Bulkhead](9-fixing_the_port_bulkhead.html "Fixing the Port Bulkhead")
 
@@ -8,8 +21,9 @@ The port bulkhead had water damage from a leak due to improper sealing of the ma
 
 **Video!**
 <div>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/f4S497-pfSc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/dbXBoLsxGr4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
 
 ![Mast Step](media/9-bulkhead/img_1057.jpg)
 *Mast Step*
@@ -38,7 +52,9 @@ Luckily the rust was limited to the connection between the tab and the main beam
 *Old Tab Ground Off*
 
 ![](media/9-bulkhead/IMG_7232.jpg)
-*New Tab*
+*Tack welds on the new tab*
+
+The weld came out well but I didn't get a picture of it before glassing over it.
 
 ![](media/9-bulkhead/IMG_1511.jpg)
 *New Bulkhead Tabbed In*
